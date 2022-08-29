@@ -5,9 +5,9 @@ var link = {
     yaboApp: 'https://www.stiuic.com:9663/?i_code=2011991',                        //亚博aap
     
     //乐鱼
-    leyuPc: 'https://www.sv588.com:9960/register/?i_code=0642513',                  //爱游戏电脑
-    leyuH5: 'https://www.4t14u.com:9975/entry/register/?i_code=0642513',       //爱游戏h5 
-    leyuApp: 'https://www.g9fy5.com:9109/?i_code=0642513',                          //爱游戏app  
+    leyuPc: 'http://www.4ab7q.com/entry/register/?i_code=0642513',                  //爱游戏电脑
+    leyuH5: 'http://www.4ab7q.com/entry/register/?i_code=0642513',       //爱游戏h5 
+    leyuApp: 'http://www.4ab7q.com/entry/register/?i_code=0642513',                          //爱游戏app  
     
     //客服                                                        
     contact: 'http://hd66.tv/'                                
